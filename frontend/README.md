@@ -119,6 +119,3 @@ To launch and experiment with this codebase environment locally:
    (typically http://localhost:5173).
 
 
-========================================================================
-                     END OF README MANIFEST DOCUMENT
-========================================================================
